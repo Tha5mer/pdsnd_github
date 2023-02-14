@@ -8,7 +8,7 @@ Post your Work on GitHub Project:
 In this project, I'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
 
 ### Files used
-Files from python project 
+Files from python project except .csv files 
 
 ### Credits
 https://udacity.github.io/git-styleguide/
